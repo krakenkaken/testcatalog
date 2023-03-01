@@ -1,3 +1,4 @@
 # Table of contents
 
-* [Page 1](README.md)
+* [Страница](README.md)
+* [Еще одна страница](paper.md)
